@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'GothamBold';
+   src: url('GothamBold/font.ttf');
+}
+@font-face {
+   font-family: 'GothamLight';
+   src: url('GothamLight/font.ttf');
+}
+@font-face {
+   font-family: 'GothamBook';
+   src: url('GothamBook/font.ttf');
+}
+@font-face {
+   font-family: 'SF-Pro-Display-Regular';
+   src: url('SF-Pro-Display-Regular/font.otf');
+}
+@font-face {
+   font-family: 'GothamMedium';
+   src: url('GothamMedium/font.ttf');
+}
