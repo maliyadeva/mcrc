@@ -51,7 +51,9 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "imageResize": true
+    "imageResize": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
